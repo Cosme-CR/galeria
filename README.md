@@ -1,4 +1,5 @@
-# 🖼️ Atividade SENAI – Galeria: Elden Ring
+
+# 🖼️ Atividade 03 SENAI – Galeria: Elden Ring
 
 Este projeto foi desenvolvido como parte de uma **atividade prática** do curso de **Desenvolvimento de Sistemas** no **SENAI**.
 
