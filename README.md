@@ -1,5 +1,5 @@
 
-# 🖼️ Atividade 03 SENAI – Galeria: Elden Ring
+#  Atividade 03 SENAI – Galeria: Elden Ring
 
 Este projeto foi desenvolvido como parte de uma **atividade prática** do curso de **Desenvolvimento de Sistemas** no **SENAI**.
 
@@ -7,16 +7,16 @@ A proposta da atividade era criar uma **galeria com 9 imagens** sobre um tema de
 
 A galeria foi organizada em duas seções:
 
-- ⚔️ **Bosses mais complexos**
-- 🔮 **NPCs com quests indispensáveis**
+-  **Bosses mais complexos**
+-  **NPCs com quests indispensáveis**
 
 Cada imagem possui um efeito visual ao passar o mouse e, ao ser clicada, leva o usuário até a wiki do personagem, permitindo explorar mais sobre seu papel no jogo.
 
 ---
 
-## 🎮 Personagens apresentados
+##  Personagens apresentados
 
-### ⚔️ Bosses mais complexos:
+###  Bosses mais complexos:
 - Malenia
 - Messmer, o Empalador
 - Mohg, Lord of Blood
@@ -24,14 +24,14 @@ Cada imagem possui um efeito visual ao passar o mouse e, ao ser clicada, leva o 
 - Godrick the Grafted
 - Rennala, Queen of the Full Moon
 
-### 🔮 NPCs com quests indispensáveis:
+###  NPCs com quests indispensáveis:
 - Melina
 - Ranni the Witch
 - Millicent
 
 ---
 
-## ✨ Funcionalidades do projeto
+##  Funcionalidades do projeto
 
 - Layout com 9 imagens
 - Efeitos visuais com CSS (hover)
@@ -39,7 +39,7 @@ Cada imagem possui um efeito visual ao passar o mouse e, ao ser clicada, leva o 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - CSS3
